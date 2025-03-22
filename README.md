@@ -1,5 +1,3 @@
-## Paylancer
-
 ### Description
 
 FlexPay is a decentralized payment system designed to streamline weekly payments for freelancers. This platform combines smart contracts with a user-friendly web application to provide a secure and efficient way for clients to manage payments. Clients can fund and lock their accounts, offering freelancers confidence that their payments are secured in advance. Freelancers can initiate their weekly payments once their work has been logged, ensuring they receive their compensation promptly.
