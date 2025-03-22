@@ -1,0 +1,50 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.10.8",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@iconify/react": "^5.0.1",
+    "@mui/lab": "^5.0.0-alpha.172",
+    "@mui/material": "^5.16.1",
+    "@mui/x-data-grid": "^7.10.0",
+    "@reduxjs/toolkit": "^2.2.6",
+    "@tanstack/react-query": "^5.51.1",
+    "@web3modal/wagmi": "^5.0.6",
+    "@worldcoin/idkit": "^1.2.2",
+    "framer-motion": "^11.3.2",
+    "graphql": "^16.9.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1",
+    "next": "^14.2.5",
+    "node-fetch": "^3.3.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-redux": "^9.1.2",
+    "react-toastify": "^10.0.5",
+    "redux": "^5.0.1",
+    "redux-persist": "^6.0.0",
+    "simplebar-react": "^3.2.6",
+    "viem": "^2.17.3",
+    "wagmi": "^2.10.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "prettier": "^3.3.2",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
